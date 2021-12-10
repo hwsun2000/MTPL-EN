@@ -1,0 +1,9 @@
+First of all, put the file coxmart.dll in the current directory.
+Then, perform loglik.R, which is log likelihood function.
+And then, perform MPTL-EN.R, which is the algorithm of MPTL-EN estimation.
+Last, perform Scenario n300p1000eps10%censor40%.R, which simlates datasets and apply MPTL-EN and EN on the simulated datasets.
+
+
+
+
+
